@@ -6,6 +6,8 @@ module.exports = {
       blur: 0.15
     },
 
+    borderRadiusInner : "15px",
+
     // default font size in pixels for all tabs
     fontSize: 12,
 
